@@ -1,0 +1,253 @@
+
+.azeret-mono-font {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+.btn{
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    border-radius: 8px;
+    padding: 17px 24px 17px 24px;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+    opacity: 0.8;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+
+}
+
+
+.btn2 {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: 21px 24px 21px 24px;
+    border-radius: 8px;
+    color: white;
+    background: rgb(13, 19, 33);
+}
+
+.center-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100%;
+    margin-bottom: 44px;
+   
+}
+
+
+
+nav{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 150px;
+}
+
+.banner{
+   
+    background-image: url(../assets/Hero-bg.png);
+    align-content: center;
+    
+
+
+}
+.inner-banner{
+
+
+
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 48px;
+font-weight: 800;
+line-height: 68px;
+letter-spacing: 0%;
+text-align: center;
+margin-left: 221px;
+margin-right: 221px;
+
+
+
+}
+.inner-banner-2{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-left: 294px;
+margin-right: 294px;
+margin-bottom: 32px;
+}
+.group{
+    margin-top: 26px;
+    display: flex;
+   
+    align-items: center;
+    justify-content: center;
+
+}
+.about{
+
+    border-radius: 16px;
+
+    background: rgba(13, 19, 33, 0.02);
+    margin: 74px 148px;
+    padding-bottom: 80px;
+}
+
+.about-title{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+     padding-top: 80px;
+     padding-bottom: 24px;
+
+}
+.about-subtitle{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+margin: 0px 48px;
+padding: 48px;
+}
+
+
+.fst{
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+background-color: white;
+margin-left: 97px;
+margin-right: 97px;
+padding-left: 48px;
+padding-right: 48px;
+margin-bottom: 32px;
+gap: 100px;
+
+
+
+
+}
+
+
+.fst2{
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+background-color: white;
+margin-left: 97px;
+margin-right: 97px;
+padding-left: 48px;
+padding-right: 48px;
+
+gap: 100px;
+
+
+
+
+}
+
+.box-title{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+   padding-right:  87px; ;
+
+}
+
+box-subtitle{
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+
+    padding-right: 9px;
+}
+
+.btn3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 20px 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    
+
+
+}
+
+.insp-title{
+
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 24px;
+}
+
+
+.insp-subtitle{
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+     margin-left: 292px;
+     margin-right: 296px;
+     margin-bottom: 48px;
+
+
+
+}
+
+.jnk{
+
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    margin-left:  148px;
+    margin-right: 148px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;    
+
+}
